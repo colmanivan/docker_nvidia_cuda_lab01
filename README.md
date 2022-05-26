@@ -24,7 +24,7 @@ sudo docker run --gpus all hello_from_gpu
 
 Hello, My name is Iván Colman, I am from Argentina.
 
-I received my Systems Graduate from La Plata National University (UNLP) in 2021.
+I have a degree in Systems from La Plata National University (UNLP) in 2021.
 
 ## Get in touch.
 [linkedin - www.linkedin.com/in/ivancolman](https://www.linkedin.com/in/ivancolman/) 
