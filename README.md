@@ -17,16 +17,3 @@ sudo docker run --gpus all hello_from_gpu
 ```
 3. See the output
 ![Esta es una imagen](/assets/output.jpg)
-
-# Contact
-
-## About me.
-
-Hello, My name is Iván Colman, I am from Argentina.
-
-I have a degree in Systems from La Plata National University (UNLP) in 2021.
-
-## Get in touch.
-[linkedin - www.linkedin.com/in/ivancolman](https://www.linkedin.com/in/ivancolman/) 
-
-[twitter - www.twitter.com/_ivancolman](https://twitter.com/_ivancolman)
